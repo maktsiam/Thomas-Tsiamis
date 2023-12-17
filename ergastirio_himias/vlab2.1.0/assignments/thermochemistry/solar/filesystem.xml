@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<FILESYSTEM>
+	<DIRECTORY name="stockroom">
+
+				<SOLUTION name = "Distilled H&lt;sub&gt;2&lt;/sub&gt;O" description="Distilled Water"
+						  volume="3.0" vessel="3lCarboy">
+					<SPECIES_REF id="0" amount="166.5186501"/>
+
+				</SOLUTION>
+				
+				<SOLUTION name = "200g Distilled H&lt;sub&gt;2&lt;/sub&gt;O" description="Distilled Water" volume="0.2">
+					<SPECIES_REF id="0" amount="11.1012433"/>
+				</SOLUTION>
+
+			      <SOLUTION name = "200g Solar Salt Liquid" description="Solar Salt Liquid" volume="0.071942">
+				      <SPECIES_REF id="60" amount="1.18202"/>
+				</SOLUTION>
+
+			      <SOLUTION name = "200g Solar Metal Liquid" description="Solar Metal Liquid" volume="0.03808">
+				      <SPECIES_REF id="61" amount="1.18202"/>
+				</SOLUTION>
+				
+				<SOLUTION name = "200g Solar Oil" description="Solar Oi" volume="0.08264">
+				      <SPECIES_REF id="62" amount="1.18202"/>
+				</SOLUTION>
+				
+	
+	</DIRECTORY>
+</FILESYSTEM>

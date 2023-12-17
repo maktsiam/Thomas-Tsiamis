@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!-- Local problems.  New entries can be added with the following template:
+	<PROBLEM url="">
+		<TITLE></TITLE>
+        <AUTHOR></AUTHOR>
+        <DESCRIPTION>
+		</DESCRIPTION>        
+	</PROBLEM>
+
+	Additionally, directories can be arbitrarily nested using the form:
+	<DIRECTORY name="">
+		...
+	</DIRECTORY>
+-->
+
+<INDEX>
+	<PROBLEM url="assignments/default_cs.xml">
+		<TITLE>Základní laboratoř CZ</TITLE>
+		<AUTHOR>Mike Karabinos, Jordi Cuadros, překlad Hana Dolečková, Martin Slavík</AUTHOR>
+		<DESCRIPTION>
+			Obsahuje látky, reakce a roztoky standardně používané v hlavním skladu
+			Virtuální laboratoře.
+		</DESCRIPTION>
+	</PROBLEM>
+
+	<PROBLEM url="assignments/problems_cs/walkthrough.xml">
+			<TITLE>Demonstrace krok za krokem</TITLE>
+			<AUTHOR>Emma Rehm, překlad Hana Dolečková, Martin Slavík</AUTHOR>
+			<DESCRIPTION>
+				Ukázková procházka znázorňující nejpoužívanější vlastnosti
+				Virtuální laboratoře.
+			</DESCRIPTION>
+		</PROBLEM>
+
+		<PROBLEM url="assignments/problems_cs/acidbase/titration.xml">
+	<TITLE>Standardizace NaOH</TITLE>
+ 	<AUTHOR>Dave Yaron, překlad Hana Dolečková, Martin Slavík</AUTHOR>
+	<DESCRIPTION>
+V tomto přípravném cvičení, studenti standardizují roztok NaOH pomocí hydrogenftalanu draselného.
+	</DESCRIPTION>
+	</PROBLEM>
+
+ 	<PROBLEM url="assignments/problems_cs/acidbase/dilut.xml">
+	<TITLE>pH a postupné ředění roztoků</TITLE>
+ 	<AUTHOR>Mike Karabinos, překlad Hana Dolečková, Martin Slavík</AUTHOR>
+	<DESCRIPTION>
+	    Vytvoření stupnice pH metodou postupného ředění.
+	</DESCRIPTION>
+			</PROBLEM>
+
+	<PROBLEM url="assignments/problems_cs/solubility/sol.xml">
+			<TITLE>Rozpustnost solí</TITLE>
+			<AUTHOR>Hana Dolečková, Martin Slavík</AUTHOR>
+			<DESCRIPTION>
+			Porovnejte rozpustnost NaCl, CuSO4.5H2O a Ce2(SO4)3.
+			</DESCRIPTION>
+		</PROBLEM>
+			
+	<PROBLEM url="assignments/problems_cs/molarity/alcohol.xml">
+			<TITLE>Koncentrace roztoku a jeho hustota</TITLE>
+			<AUTHOR>Hana Dolečková, Martin Slavík</AUTHOR>
+			<DESCRIPTION>
+			Výpočet koncentrace roztoku na základě zavislosti na hustotě.
+			</DESCRIPTION>
+		</PROBLEM>
+
+			<PROBLEM url="assignments/problems_cs/acidbase/unknownacid.xml">
+	<TITLE>Problém slabé kyseliny a zásady</TITLE>
+ 	<AUTHOR>Dave Yaron, překlad Hana Dolečková, Martin Slavík</AUTHOR>
+	<DESCRIPTION>
+	    Studenti stanoví titrační křivku neznámé kyseliny
+		a báze; určí jejich pKa a koncentrace.
+	</DESCRIPTION>
+			</PROBLEM>
+			
+   	
+ <PROBLEM url="assignments/problems_cs/solubility/cuclsolu.xml">
+			<TITLE>Rozpustnost CuCl při různých teplotách</TITLE>
+			<AUTHOR>Hana Dolečková, Martin Slavík</AUTHOR>
+			<DESCRIPTION>
+			Určení rozpustnosti CuCl při různých teplotách.
+			</DESCRIPTION>
+		</PROBLEM>
+		
+		 <PROBLEM url="assignments/problems_cs/solubility/sol2.xml">
+			<TITLE>Součin rozpustnosti solí</TITLE>
+			<AUTHOR>Robert Belford a Mike Karabinos, překlad Hana Dolečková, Martin Slavík</AUTHOR>
+			<DESCRIPTION>
+			Stanovení rozpustnosti: AgCl, SrSO4, Ag2CO3, Sr(IO3)2.
+			</DESCRIPTION>
+		</PROBLEM>
+
+ 	<PROBLEM url="assignments/problems_cs/acidbase/buffer.xml">
+	<TITLE>pKa a poměr koncentrací proteinu v roztoku</TITLE>
+ 	<AUTHOR>Dave Yaron, překlad Hana Dolečková, Martin Slavík</AUTHOR>
+	<DESCRIPTION>
+	pKa a poměr koncentrací proteinu v roztoku
+	</DESCRIPTION>
+			</PROBLEM>
+
+<PROBLEM url="assignments/problems_cs/equilibrium/cobalt.xml">
+	<TITLE>Le Chatelierův princip a komplexy Co(2+)</TITLE>
+ 	<AUTHOR>Bob Belford, překlad Hana Dolečková, Martin Slavík</AUTHOR>
+	<DESCRIPTION>
+	Aplikace Le Chatelierova principu</DESCRIPTION>
+			</PROBLEM>
+			
+			<PROBLEM url="assignments/problems_cs/thermochemistry/freeze.xml">
+	<TITLE>Experimentální určení tepelné kapacity</TITLE>
+ 	<AUTHOR>Dave Yaron, překlad Hana Dolečková, Martin Slavík</AUTHOR>
+	<DESCRIPTION>
+	Stanovení specifické tepelné kapacity vzorku
+	</DESCRIPTION>
+			</PROBLEM>
+			
+<PROBLEM url="assignments/problems_cs/thermochemistry/coffee.xml">
+	<TITLE>Káva a termochemie</TITLE>
+ 	<AUTHOR>Dave Yaron, překlad Hana Dolečková, Martin Slavík</AUTHOR>
+	<DESCRIPTION>
+	Problém chladnutí kávy</DESCRIPTION>
+			</PROBLEM>
+			
+			<PROBLEM url="assignments/problems_cs/thermochemistry/freeze.xml">
+	<TITLE>Experimentální určení tepelné kapacity</TITLE>
+ 	<AUTHOR>Dave Yaron, překlad Hana Dolečková, Martin Slavík</AUTHOR>
+	<DESCRIPTION>
+	Stanovení specifické tepelné kapacity vzorku
+	</DESCRIPTION>
+			</PROBLEM>
+
+	  <PROBLEM url="assignments/problems_cs/quant/silver.xml">
+			<TITLE>Stanovení neznámé koncentrace Ag+</TITLE>
+			<AUTHOR>Mike Karabinos, překlad Hana Dolečková, Martin Slavík</AUTHOR>
+			<DESCRIPTION>
+				Stanovte koncentraci stříbrných iontů v roztoku dusičnanu stříbrného.
+			</DESCRIPTION>
+	  </PROBLEM>
+
+
+
+</INDEX>

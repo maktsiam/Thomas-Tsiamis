@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<FILESYSTEM>
+	<DIRECTORY name="stockroom">
+
+				<SOLUTION name = "Destilovaná voda" description="Destilovaná voda"
+						  volume="3.0" vessel="3lCarboy">
+					<SPECIES_REF id="0"/>
+
+				</SOLUTION>
+
+			      <SOLUTION name = "Káva" description="Káva" volume="0.25" vessel="250mlVolumetric">
+					<SPECIES_REF id="0"/>
+					<SPECIES_REF id="3" amount="0.000000030"/>
+					<SPECIES_REF id="5" amount="0.000000030"/>
+
+				</SOLUTION>
+
+
+			      <SOLUTION name = "Mléko" description="Mléko" volume="0.1" vessel="100mlBottle">
+					<SPECIES_REF id="0"/>
+					<SPECIES_REF id="4" amount="0.0000005"/>
+				</SOLUTION>
+
+
+		<FILE href="coffee.htm" description="Problém chladnutí kávy">Popis problému</FILE>
+
+	</DIRECTORY>
+</FILESYSTEM>

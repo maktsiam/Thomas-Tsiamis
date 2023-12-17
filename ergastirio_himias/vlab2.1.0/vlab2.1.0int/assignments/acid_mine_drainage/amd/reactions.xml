@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+
+<REACTIONS>
+	<!--  H<sup>+</sup> +  OH<sup>-</sup> ->  H<sub>2</sub>O -->
+	<REACTION>
+		<SPECIES_REF id="0" coefficient="1"/>
+		<SPECIES_REF id="1" coefficient="-1"/>
+		<SPECIES_REF id="2" coefficient="-1"/>
+	</REACTION>
+
+	<!--  H<sup>+</sup> +  HCO<sub>3</sub><sup>-</sup> ->  H<sub>2</sub>CO<sub>3</sub> -->
+	<REACTION>
+		<SPECIES_REF id="26" coefficient="1"/>
+		<SPECIES_REF id="1" coefficient="-1"/>
+		<SPECIES_REF id="27" coefficient="-1"/>
+	</REACTION>
+
+	<!--  HCO<sub>3</sub><sup>-</sup> ->  CO<sub>3</sub><sup>-2</sup> +  H<sup>+</sup> -->
+	<REACTION>
+		<SPECIES_REF id="28" coefficient="1"/>
+		<SPECIES_REF id="1" coefficient="1"/>
+		<SPECIES_REF id="27" coefficient="-1"/>
+	</REACTION>
+
+	<!--  HSO<sub>4</sub><sup>-</sup> ->  SO<sub>4</sub><sup>-2</sup> +  H<sup>+</sup> -->
+	<REACTION>
+		<SPECIES_REF id="30" coefficient="1"/>
+		<SPECIES_REF id="1" coefficient="1"/>
+		<SPECIES_REF id="29" coefficient="-1"/>
+	</REACTION>
+
+	<!--  HSO<sub>4</sub><sup>-</sup>  +  H<sup>+</sup> ->  H<sub>2</sub>SO<sub>4</sub> -->
+	<REACTION>
+		<SPECIES_REF id="31" coefficient="1"/>
+		<SPECIES_REF id="1" coefficient="-1"/>
+		<SPECIES_REF id="29" coefficient="-1"/>
+	</REACTION>
+
+	<!--  MgOH<sub>2</sub> ->  Mg<sup>+2</sup> + 2.0 OH<sup>-</sup> -->
+	<REACTION>
+		<SPECIES_REF id="35" coefficient="1"/>
+		<SPECIES_REF id="34" coefficient="-1"/>
+		<SPECIES_REF id="2" coefficient="2"/>
+	</REACTION>
+
+
+	<!--  MgOH<sub>2</sub> ->  Mg<sup>+2</sup> + 2.0 OH<sup>-</sup> -->
+	<REACTION>
+		<SPECIES_REF id="52" coefficient="1"/>
+		<SPECIES_REF id="51" coefficient="-1"/>
+		<SPECIES_REF id="2" coefficient="2"/>
+	</REACTION>
+
+	<!--  Fe(OH)<sub>3</sub> ->  Fe<sup>+3</sup> + 3.0 OH<sup>-</sup> -->
+	<REACTION>
+		<SPECIES_REF id="3" coefficient="1"/>
+		<SPECIES_REF id="4" coefficient="-1"/>
+		<SPECIES_REF id="2" coefficient="3"/>
+	</REACTION>
+
+	<!--  Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> -> 2 Fe<sup>+3</sup> + 3.0 SO<sub>4</sub><sup>-2</sup> -->
+	<!--<REACTION>
+		<SPECIES_REF id="3" coefficient="2"/>
+		<SPECIES_REF id="5" coefficient="-1"/>
+		<SPECIES_REF id="30" coefficient="3"/>
+	</REACTION>-->
+
+	<!--  CaOH<sub>2</sub> ->  Ca<sup>+2</sup> + 2.0 OH<sup>-</sup> -->
+	<REACTION>
+		<SPECIES_REF id="54" coefficient="1"/>
+		<SPECIES_REF id="53" coefficient="-1"/>
+		<SPECIES_REF id="2" coefficient="2"/>
+	</REACTION>
+
+</REACTIONS>

@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+
+<FILESYSTEM>
+	<DIRECTORY name="stockroom">
+
+				<SOLUTION name = "Distilled H&lt;sub&gt;2&lt;/sub&gt;O" description="Distilled Water"
+						  volume="3.0" vessel="3lCarboy">
+					<SPECIES_REF id="0"/>
+				</SOLUTION>
+
+	
+
+				<SOLUTION name="10.0 M NaOH" description="10.0 M Sodium Hydroxide" volume="0.1">
+					<SPECIES_REF id="0"/>
+					<SPECIES_REF id="8" amount="1"/>
+					<SPECIES_REF id="2" amount="1"/>
+				</SOLUTION>
+
+
+
+			<SOLUTION name="Unknown Acid" description="" volume="0.1">
+				<SPECIES_REF id="0"/>
+				<SPECIES_REF id="1" amount="u1,double,0.0025,0.25,u"/>
+			</SOLUTION>
+			
+	
+			<SOLUTION name="Phenolphthalein" description="Phenolphthalein Indicator Solution" volume="0.1" vessel="100mlBottle">
+					<SPECIES_REF id="0"/>
+					<SPECIES_REF id="47" amount=".00016"/>
+			</SOLUTION>
+		
+	</DIRECTORY>
+</FILESYSTEM>

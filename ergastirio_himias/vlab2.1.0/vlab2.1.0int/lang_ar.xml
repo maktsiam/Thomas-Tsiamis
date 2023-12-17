@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <!-- Translated by...
+		لعربية (ar) Dr. Khateeb Alkhateeb
+		heeek (he)	Malka Yayon
+		Türkçe (tr): Mustafa SÖZBİLİR-
+-->
+
+<LANG_FILE>
+   <TERM en="Load selected solution" ar="تحميل المحلول المختار" he="טען תמיסה" tr="Seçilen çözeltiyi ekle"/>
+
+   <TERM en="Empty solution test tube" ar="أفرغ أنبوب اختبار المحلول" he="רוקן תמיסה" tr="Deney tüpündeki çözeltiyi boşalt"/>
+
+   <TERM en="View inside" ar="عرض بالداخل" he="התבונן בפנים" tr="İçine bak"/>
+
+   <TERM en="UV-VIS Spectrophotometer" ar="UV-VIS مقياس الطيف الضوئي" he="UV-VIS ספקטרופוטומטר" tr="UV-VIS Spektrofotometre"/>
+
+   <TERM en="Windows" ar="إطارات" he="חלונות" tr="Windows" />
+
+   <TERM en="Spectrophotometer" ar="مقياس الطيف الضوئي" he="ספקטרופוטומטר" tr="Spektrofotometre"/>
+
+   <TERM en="Virtual Lab" ar="المختبر الافتراضي" he="מעבדה וירטואלית" tr="Sanal Laboratuvar" />
+
+   <TERM en="Arrange both" ar="ترتيب الاثنين" he="ארגן את שניהם" tr="Her ikisini de düzenle" />
+
+   <TERM en="Wavelength control knob" ar="مقبض تحكم طول الموجة" he="כפתור לשינוי אורך גל" tr="Dalgaboyu kontrol düğmesi" />
+
+   <TERM en="Power switch. Zeroing knob" ar="مفتاح كهربائي. تصفير المقبض" he="כפתור איפוס" tr="Güç anahtarı. Sıfırlama düğmesi"/>
+
+   <TERM en="Blanking knob" ar="مقبض الماسح" he="כפתור בלנק" tr="Kör çözelti düğmesi" />
+
+   <TERM en="Spectrum graph options" ar="خيارات مخطط الطيف" he="אפשרויות לספקטרום" tr="Spektrum grafik seçenekleri"/>
+
+   <TERM en="No data" ar="‏‏لا توجد أية بيانات" he="אין נתונים" tr="Veri yok"/>
+
+   <TERM en="x Axis" ar="x محور" he="ציר x" tr="x Ekseni"/>
+
+   <TERM en="y Axis" ar="y محور" he="ציר y" tr="y Ekseni" />
+
+   <TERM en="Nanometers" ar="نانوميتر" he="ננומטר" tr="Nanometre" />
+
+   <TERM en="Absorbance" ar="متماص" he="בליעה" tr="Absorbans" />
+
+   <TERM en="Transmittance" ar="امتراق" he="העברה" tr="Geçirgenlik" />
+
+   <TERM en="Color mode" ar="وضع اللون" he="מצב צבע" tr="Renk modu"/>
+
+   <TERM en="Colored" ar="ملون" he="צבעוני" tr="Renkli" />
+
+   <TERM en="Colorless" ar="عديم اللون" he="חסר צבע" tr="Renksiz" />
+
+   <TERM en="Lines" ar="أسطر" he="קוים"  tr="Çizgiler" />
+
+   <TERM en="Points" ar="نقاط" he="נקודות" tr="Noktalar" />
+
+   <TERM en="Yes" ar="نعم" he="כן" tr="Evet" />
+
+   <TERM en="No" ar="لا" he="לא" tr="Hayır"  />
+
+   <TERM en="No solution is selected" ar="لم تحدد أية سائل" he="לא נבחרה אף תמיסה" tr="Çözelti seçilmedi" />
+
+   <TERM en="Error" ar="خطأ" he="שגיאה" tr="Hata" />
+
+   <TERM en="Say: " ar="قل:"  he="לומר" tr="Söyle: " />
+
+   <TERM en="has entered the room." ar="قد دخل الغرفة."  he="נכנס לחדר" tr="odaya girdi" />
+
+   <TERM en="have entered the room." ar="قد دخل الغرفة." he="נכנסו לחדר" tr="odaya girdi." />
+
+   <TERM en="has left the room." ar="قد غادر الغرفة." he="יצאו מהחדר" tr="odayı terketti."/>
+
+   <TERM en="Cancel" ar="إلغاء الأمر"  he="בטל" tr="İptal" />
+
+   <TERM en="Ok" ar="موافق" he="ΟΚ" tr="Tamam" />
+
+   <TERM en="Send Instant Message" ar="إرسال رسالة فورية"   he="שלח הודעה" tr="Anlık ileti gönder" />
+
+   <TERM en="To whom would you like to send an instant message?" ar="إلى من تريد إرسال رسالة فورية؟" he="למי תרצה לשלוח את ההודעה?" tr="Kime anlık ileti göndermek istersiniz?" />
+
+   <TERM en="User:" ar="مستخدم:" he="משתמש"  tr="Kullanıcı:"/>
+
+   <TERM en="Join Channel" ar="انضمام للقناة" tr="Katıl Kanal" />
+
+   <TERM en="Channel Name:" ar="اسم القناة:"  he="שם הערוץ" tr="Kanal Adı" />
+
+   <TERM en="Members:" ar="الأعضاء:"   he="חברים" tr="Üyeler" />
+
+   <TERM en="Connecting to chat server..." ar="جاري الاتصال بملقم المحادثة..." he="חיבור לצ'אט" r="Chat sürücüsüne bağlanıyor.."/>
+
+   <TERM en="Error in IRC I/O initialization." ar="IRC I/O خطأ في تهيئة"  he="שגיאה ב IRC I/O."  tr="IRC I/O başlatım hatası."/>
+
+   <TERM en="User logged out." ar="تسجيل خروج المستخدم."  he="משתמש לא זמין" tr="Kullanıcı çıkış yaptı" />
+
+   <TERM en="Error message: " ar="رسالة خطأ:"  he="שגיאה בהודעה" tr="Hata mesajı" />
+
+   <TERM en="Welcome to " ar="مرحبًا بك في" he="ברוכים הבאים" tr="Hoşgeldiniz" />
+
+<!-- The & character is used to indicate the mnemonic for the menu (&amp; is the XML entity for &)-->
+   <TERM en="&amp;Edit" ar="&amp;تحرير"  he="&amp;ערוך" tr="&amp;Düzenle" />
+
+   <TERM en="Undo" ar="تراجع" he="לבטל" tr="Geri al" />
+
+   <TERM en="Redo" ar="إعادة" he="בצע שוב" tr="Yenile" />
+
+   <TERM en="Redo your last action." ar="أعد الإجراء الأخير" he="חזור על הפעולה האחרונה" tr="En son yapılanı yenile" />
+
+   <TERM en="Undo your last action." ar="تراجع عن الإجراء الأخير" he="בטל את הפעולה האחרונה"  tr="En son yapılanı geri al" />
+
+   <TERM en="&amp;Chat"  ar="&amp;محادثة" he="&amp;צ'אט" tr="&amp;Chat" />
+
+   <TERM en="Load Homework..." ar="تحميل الوظيفة..." he="טען שעורי בית" tr="Ev ödevini yükle"/>
+
+   <TERM en="Load a homework problem from the internet." ar="تحميل مشكلة الوظيفة من الانترنت."  he="טען בעית שיעורי בית מהאינטרנט" tr="Ev ödevi problemini internetten yükle" />
+
+   <TERM en="About..." ar="حول..." he="על..." tr="Hakkında..." />
+
+   <TERM en="About the virtual lab." ar="حول المختبر الافتراضي"  he="על המעבדה הוירטואלית" tr="Sanal Laboratuvar hakkında" />
+
+   <TERM en="Exit" ar="خروج"  he="יציאה" tr="Çıkış" />
+
+   <TERM en="Exit the Virtual Laboratory." ar="الخروج من المختبر الافتراضي" tr="Sanal Laboratuvardan Çıkış" he="צא מהמעבדה הוירטואלית"  />
+
+   <TERM en="&amp;File" ar="&amp;ملف" he="&amp;קובץ" tr="&amp;Dosya" />
+
+   <TERM en="Retrieve" ar="استرداد" he="הסר"  tr="Geri Çağır" />
+
+   <TERM en="Store" ar="المخزن" he="שמור"  tr="Sakla"/>
+
+   <TERM en="Workbench" ar="طاولة العمل" he="משטח עבודה" tr="Çalışma Masası" />
+
+   <TERM en="Rename Tab..." ar="تبويب إعادة التسمية..." he="כרטיסיית שינוי שם" tr="Sekmeyi Yeniden Adlandır..." />
+
+   <TERM en="Delete Tab" ar="حذف علامة تبويب" he="מחק טאב" tr="Sekmeyi Sil"/>
+
+   <TERM en="New Workbench" ar="طاولة عمل جديدة" he="משטח עבודה חדש" tr="Yeni Çalışma Masası" />
+
+   <TERM en="Rename" ar="تسمية" he="שנה שם" tr="Yeniden Adlandır"/>
+
+   <TERM en="Delete" ar="حذف" he="מחק" tr="Sil" />
+
+   <TERM en="Copy" ar="نسخ" he="העתק" tr="Kopyala"  />
+
+   <TERM en="Store a copy of the current selection in the clipboard." ar="تخزين نسخة من المختار حالياً في الحافظة." he="שמור עותק בקליפבורד" tr="Panoya geçerli seçimin bir kopyasını saklayın." />
+
+   <TERM en="Cut" ar="قص" he="חותך" tr="Kes" />
+
+   <TERM en="Remove your current selection and place it in the clipboard." ar="إزالة المحدد حالياً ووضع في الحافظة." he="הסר את הבחירה הנוכחית שלך ולמקם אותו בלוח" tr="Geçerli seçimi kaldırın ve panoya yerleştirin." />
+
+   <TERM en="Paste" ar="لصق" he="להדביק" tr="Yapıştır" />
+
+   <TERM en="Place a copy of the clipboard's contents." ar="ضع نسخة لمحتويات الحافظة." he="הדבקת עותק של התוכן של הלוח" tr="Pano içeriğinin bir kopyasını yerleştirin."/>
+
+   <TERM en="Duplicate" ar="تكرار" he="שכפל"  tr="Çoğalt" />
+
+   <TERM en="Delete your current selection." ar="احذف تحديدك الحالي." he="מחק את הבחירה" tr="Geçerli seçimi sil." />
+
+   <TERM en="Create a duplicate of the currently selected solution." ar="إنشاء نسخة من المحلول المحدد حالياً"  he="שכפל תמיסה שנבחרה" tr="Mevcut çözeltinden bir örnek daha oluştur." />
+
+   <TERM en="Workbench Menu" ar="قائمة طاولة العمل" he="תפריט של משטח העבודה" tr="Çalışma masası menüsü" />
+
+   <TERM en="Arrange" ar="ترتيب" he="סדר" tr="Düzenle" />
+
+   <TERM en="by Name" ar="حسب الاسم" he="לפי שם"  tr="Ada göre" />
+
+   <TERM en="by Type" ar="حسب النوع" he="לפי סוג" tr="Türüne göre" />
+
+   <TERM en="Auto Arrange" ar="ترتيب تلقائي" he="סדר באופן אוטומטי" tr="Otomatik yerleştir"/>
+
+   <TERM en="Line Up Components" ar="ارتصاف المكونات"  he="סדר בשורה את המרכיבים" tr="Bileşenleri Sırala"/>
+
+   <TERM en="Refresh" ar="تحديث" he="לרענן" tr="Yenile" />
+
+   <TERM en="Component Menu" ar="قائمة المكونات" he="מרכיבי התפריט" tr="Bileşen Menüsü" />
+
+   <TERM en="Bunsen Burner" ar="مصباح بنزن" he="מבער בונזן" tr="Bunzen Beki" />
+
+   <TERM en="Add a bunsen burner to the workbench." ar="إضافة مصباح بنزن إلى طاولة العمل" he="הוסף מבער בונזן במשטח העבודה" tr="Çalışma masasına bir bunzen beki daha ekle." />
+
+   <TERM en="Scale" ar="مقياس"  he="מאזניים" tr="Ölçek"/>
+
+   <TERM en="Add a weighing scale to the workbench." ar="إضافة مقياس الوزن إلى طاولة العمل" he="הוסף מאזניים במשטח העבודה" tr="Çalışma masasına bir terazi ekle."/>
+
+   <TERM en="Set as Source" ar="تعيين كمصدر" he="קבע כמקור"  tr="Kaynak olarak seç" />
+
+   <TERM en="Specify the currently selected flask as the source of a new transfer." ar="تعيين القارورة المختارة حالياً على أنها المصدر للنقل الجديد." he="קבע את הכלי הנבחר כמקור להעברה חדשה" tr="Seçilen cam balonu yeni aktarmaların kaynağı olarak belirle." />
+
+   <TERM en="Set as Recipient" ar="تعيين كمستلم" he="קבע ככלי קיבול" tr="Alıcı olarak ayarlayın " />
+
+   <TERM en="Specify the currently selected flask as the recipient of a new transfer." ar="تعيين القارورة المختارة حالياً على أنها المستقبل للنقل الجديد." he="קבע את הכלי ככלי קיבול של העברה חדשה" tr="Seçilen cam balonu alıcı olarak belirle."/>
+
+   <TERM en="Relabel the currently selected flask." ar="أعد تسمية القارورة المختارة حالياً." he="שנה שם של הכלי הנבחר"  tr="Seçili cam balonu yeniden etiketlendir." />
+
+   <TERM en="Detail View" ar="عرض التفاصيل" he="מבט של פרטים"  tr="Detaylı görünüm" />
+
+   <TERM en="Display the detail view for the currently selected flask." ar="إعرض العرض المفصل للقارورة المختارة حالياً." he="הצג את הפרטים של הכלי הנבחר" tr="Seçilen cam balon için detaylı görüntü göster. " />
+
+   <TERM en="Thermal Properties..." ar="خصائص حرارية..." he="תכונות תרמיות" tr="Termal özellikler..."/>
+
+   <TERM en="Display the thermal properties for the currently selected flask." ar="اعرض الخصائص الحرارية للقارورة المختارة حالياً." he="הצג את התכונות התרמיות של הכלי הנבחר" tr="Seçilen cam balon için termal özellikleri göster." />
+
+   <TERM en="&amp;Help" ar="&amp;تعليمات" he="&amp;עזרה" tr="&amp;Yardım" />
+
+   <TERM en="Contents..." ar="المحتويات..." he="תכולה" tr="İçerik..."/>
+
+   <TERM en="&amp;View" ar="&amp;عرض" he="&amp;מבט מראה" tr="&amp;Görünüm"/>
+
+   <TERM en="Themes" ar="السمات" he="נושאים" tr="Temalar" />
+
+   <TERM en="No Tabs" ar="بدون تبويب"  he="בלי טאבים" tr="Etiketler yok"/>
+
+   <TERM en="&amp;Tools" ar="&amp;الأدوات"  he="&amp;כלים" tr="&amp;Araçlar" />
+
+   <TERM en="Glassware" ar="أداة زجاجية" he="כלי זכוכית" tr="Cam Malzeme" />
+
+   <TERM en="Instruments" ar="أداوات" he="מכשירים"  tr="Cihazlar" />
+
+   <TERM en="Transfer Bar" ar="شريط النقل" he="פס העברה"  tr="Transfer Çizgisi" />
+
+   <TERM en="Viewers" ar="كواشف" he="תצוגה" tr="İzleyiciler" />
+
+   <TERM en="Click to retrieve a solution from the stockroom." ar="انقر لاسترداد المحلول من  المخزن" he="הקלק כדי להוציא תמיסה מהמאגר" tr="Depodan çözelti almak için tıkla."/>
+
+   <TERM en="Click to add your solution to the stockroom." ar="انقر لإضافة محلولك إلى المخزن." he="הקלק כדי להוסיף תמיסה למאגר" tr="Depoya çözelti eklemek için tıklayın. " />
+
+   <TERM en="Click to select new glassware from the drop-down menu." ar="انقر لاختيار أداة جديدة من القائمة المنسدلة"  he="הקלק כדי לבחור כלי זכוכית מה תפריט שמופיעה"  tr="Yeni cam malzeme seçmek için açılır menüyü tıkla." />
+
+   <TERM en="Click to select tools from the drop-down menu." ar="انقر لاختيار الأدوات من القائمة المنسدلة" he="הקלק כדי לבחור כלים מה תפריט שמופיעה" tr="Araçları seçmek için açılır menüyü tıkla." />
+
+   <TERM en="Click to remove the currently selected components (solutions) from the workbench." ar="انقر لإزالة المكونات (المحاليل) المحددة حالياً من طاولة العمل" he="הקלק כדי להסיר את התמיסות משולחן העבודה" tr="Çalışma masasından seçilen bileşimleri (çözeltileri) kaldırmak için tıkla. " />
+
+   <TERM en="Beakers" ar="كؤوس"  he="כוסות כימיות" tr="Beherler" />
+
+   <TERM en="Erlenmeyers" ar="إيرلنماير" he="ארלנמיירים" tr="Erlenler" />
+
+   <TERM en="Graduated Cylinders" ar="أسطوانات مدرجة" he="משורות" tr="Dereceli Silindir" />
+
+   <TERM en="Pipets" ar="ممصات" he="פיפטות" tr="Pipetler" />
+
+   <TERM en="Volumetrics" ar="حجمي" he="בקבוקי מדידה"  tr="Balon Jojeler"/>
+
+   <TERM en="250mL Beaker" ar="كأس 250مل" tr="250mL Beher" he="כוס כימית 250 מל" />
+
+   <TERM en="600mL Beaker" ar="كأس 600مل" he="כוס כימית 600 מל" tr="600mL Beher" />
+
+   <TERM en="50mL Buret" ar="سحاحة 50مل" he="ביורטה 50 מל"  tr="50mL Büret " />
+
+   <TERM en="10mL Graduated Cylinder" ar="أسطوانة مدرجة 10مل" he="משורה 10 מל" tr="10mL Dereceli Silindir" />
+
+   <TERM en="25mL Graduated Cylinder" ar="أسطوانة مدرجة 25مل" he="משורה 25 מל" tr="25mL Dereceli Silindir" />
+
+   <TERM en="50mL Graduated Cylinder" ar="أسطوانة مدرجة 50مل" he="משורה 50 מל" tr="50mL Dereceli silindir" />
+
+   <TERM en="100mL Volumetric Flask" he="בקבוק מדידה 100 מל" ar="قارورة حجمية 100 مل"  tr="100mL Balon Joje" />
+
+   <TERM en="250mL Volumetric Flask" ar="قارورة حجمية 250مل" he="בקבוק מדידה 250 מל"  tr="250mL Balon Joje " />
+
+   <TERM en="500mL Volumetric Flask" ar="قارورة حجمية 500مل" he="בקבוק מדידה 500 מל" tr="500mL Balon Joje "/>
+
+   <TERM en="1000mL Volumetric Flask" ar="قارورة حجمية 1000 مل" he="בקבוק מדידה 1000 מל" tr="1000mL Balon Joje"/>
+
+   <TERM en="25mL Pipet" ar="ممص 25مل"  he="פיפטה 25 מל" tr="25mL Pipet" />
+
+   <TERM en="10mL Pipet" ar="ممص 10مل" he="פיפטה 10 מל" tr="10mL Pipet"/>
+
+   <TERM en="5mL Pipet" ar="ممص 5مل" he="פיפטה 5 מל" tr="5mL Pipet" />
+
+   <TERM en="Disposable Pipet" ar="ممص يتلف بعد الاستعمال" he="פיפטה חד פעמית" tr="Tek Kullanımlık Pipet" />
+
+   <TERM en="100mL Bottle" ar="قنينة 100 مل" he="בקבוק 100 מל" tr="100mL şişe" />
+
+   <TERM en="Solid Bottle" ar="زجاجة صلب" he="בקבוק" tr="Katı Şişe" />
+
+   <TERM en="2500mL Bottle" ar="قنينة 2500مل" he="בקבוק 2500מל" tr="2500mL şişe" />
+
+   <TERM en="250mL Erlenmeyer Flask" ar="حوجلة إيرلنماير 250مل" he="ארלנמייר 250 מל" tr="250mL Erlen" />
+
+   <TERM en="500mL Erlenmeyer Flask" ar="حوجلة إيرلنماير 500مل" he="ארלנמייר 500 מל" tr="500mL Erlen" />
+
+   <TERM en="3L Carboy" ar="قطرميز 3ل" he="בקבוק 3 ליטר" tr="3L Damacana (Asit taşıma Kabı)" />
+
+   <TERM en="Weighing Boat" ar="مركب الوزن" he="כלי לשקילה" tr="Eşit Kollu Terazi"/>
+
+   <TERM en="PH Meter" ar="PH مقياس" he="pH-מטר" tr="PH metre"/>
+
+   <TERM en="Click to change units" he="הקלק להחלפת יחידות"  ar="انقر لتغيير الوحدات" tr="Birim değiştirmek için tıkla"/>
+
+   <TERM en="Molarity" ar="المولية" he="מולר" tr="Molarite"/>
+
+   <TERM en="grams" ar="غرامات" tr="gram" he="גרמים"/>
+
+   <TERM en="moles" ar="مول" he="מול" tr="mol" />
+
+<!--Short for gas-->
+   <TERM en="g" ar="غ" he="סול" tr="g"/>
+
+<!--Short for aqueous-->
+   <TERM en="aq" ar="ما" tr="aq" he="מימי"/>
+
+<!--Short for solid-->
+   <TERM en="ص" ar="s" tr="k" he="של" />
+
+   <TERM en="Aqueous" ar="مائي" he="מימי" tr="Sulu çözelti" />
+
+   <TERM en="Solid" ar="صلب" he="מוצק" tr="Katı" />
+
+   <TERM en="Gas" ar="بنزين" he="גז" tr="Gaz" />
+
+   <TERM en="Species" ar="الأصناف" he="מינים" tr="Çeşit" />
+
+   <TERM en="Stockroom Explorer..." ar="استعراض المخزن..."  he="חיפוש במאגר" tr="Depo Arayıcı..."/>
+
+   <TERM en="Solution Info..." ar="معلومات المحلول:" he="מידע על תמיסות"  tr="Çözelti Bilgisi..." />
+
+   <TERM en="Name:" ar="الاسم:"  he="שם:" tr="İsim:" />
+
+   <TERM en="Volume:"  ar="الحجم:"  he="נפח:" tr="Hacim:" />
+
+   <TERM en="from " ar="من"  he="מ " tr="-den, -dan" />
+
+   <TERM en="to " ar="إلى" he="ל " tr="e, -a" />
+
+   <TERM en="Un-named" ar="غير مسماة" he="ללא שם" tr="İsimsiz" />
+
+   <TERM en="Transfer amount (mL): " ar="مقدار النقل (مل):"  he="נפח מועבר (mL):" tr="(mL) aktar" />
+
+   <TERM en="Pour" ar="صب" he="מזוג" tr="Boşalt" />
+
+   <TERM en="Withdraw" ar="سحب" he="הוצא" tr="Geri çekme" />
+
+   <TERM en="Transfer amount (g): " ar="مقدار النقل (غ):" he="כמות מועברת (g):" tr="(g) miktar aktarma" />
+
+   <TERM en="Invalid amount!" ar="مقدار غير صحيح!" he="כמות חסרת משמעות !" tr="Geçersiz miktar!" />
+
+   <TERM en="A pipet can only precisely transfer it's maximum volume, in this case " ar="يمكن للممص أن ينقل فقط بدقة حجمه الأقصى,في هذه الحالة" he="פיפטה יכולה להכיל מקסימות את הנפח שלה"  tr="Pipet sadece tam bu durumda, en yüksek hacim transfer edebilir" />
+
+   <TERM en="Watch those significant digits! Perhaps you meant " ar="راقب تلك الأرقام الهامّة! ربما عنيت" tr="Kastettiğin basamak bu olabilir" he="צפו האלה הספרות משמעותיות! אולי אתה מתכוון" />
+
+   <TERM en="Remove the currently selected components." ar="إزالة المكونات المختارة حالياً." he="להסיר את הרכיבים שנבחרו כעת." tr="Seçtiğin bileşimi kaldır." />
+
+   <TERM en="Remove" ar="إزالة"  he="הסר"  tr="Kaldır" />
+
+   <TERM en="Select All" ar="تحديد الكل" he="בחר הכל" tr="Hepsini Seç" />
+
+   <TERM en="Select all of the components." ar="اختيار كل المكونات." he="בחר את כל הרכיבים" tr="Select all of the components." />
+
+   <TERM en="&amp;Cancel" ar="&amp;إلغاء الأمر" he="&amp;בטל" tr="&amp;İptal" />
+
+   <TERM en="&amp;Ok" ar="&amp;موافق" he="&amp;בסדר" tr="&amp;Tamam" />
+
+   <TERM en="&amp;Yes" ar="&amp;نعم" he="&amp;כן" tr="&amp;Evet" />
+
+   <TERM en="&amp;No" ar="&amp;لا" he="&amp;לא" tr="&amp;Hayır" />
+
+   <TERM en="Connect to Chat Server" ar="الاتصال بملقم المحادثة" he="חבר לצאט סרבר"  tr="Sohbet Sunucusuna Bağlan" />
+
+   <TERM en="Enter a nickname:" ar="أدخل الكنية:" he="בחר כינוי:" tr="Rumuzu gir" />
+
+   <TERM en="Thermal Properties" ar="خصائص حرارية" he="תכונות תרמיות" tr="Termal Özellikler" />
+
+   <TERM en="Solution:" ar="المحلول:" he="תמיסה:" tr="Çözelti" />
+
+   <TERM en="Temperature:" ar="الحرارة:" he="טמפרטורה:" tr="Sıcaklık:"/>
+
+   <TERM en="Set the temperature to:" ar="تعيين الحرارة إلى:" he="קבע את הטמפרטורה:" tr="Sıcaklık ayarlayın:" />
+
+   <TERM en="Insulated from surroundings" ar="عزلت من البيئة المحيطة" he="בודד מהסביבה" tr="Çevreden İzoledir" />
+
+   <TERM en="Relabel Solution" ar="أعد تسمية المحلول" he="כנה תמיסה מחדש" tr="Çözeltiyi Yeniden Adlandır" />
+
+   <TERM en="to: " ar="إلى:" he="ל: " tr="göre: " />
+
+   <TERM en="Rename Tab" ar="تبويب إعادة التسمية" he="כנה טאב מחדש" tr="Etiketi Yeniden Adlandır" />
+
+   <TERM en="Load Homework" ar="تحميل الوظيفة" he="טען שעורי בית" tr="Ev Ödevini Yükle" />
+
+   <TERM en="Metal" ar="معدن" he="מתכת"  tr="Metal" />
+
+   <TERM en="Emerald" ar="زمردي"  he="ברקת" tr="Zümrüt"  />
+
+   <TERM en="Neutral" ar="حيادي" he="ניטראלי" tr="Nötr" />
+
+   <TERM en="Presentation" ar="عرض تقديمي" he="Presentation" tr="Sunum" />
+
+   <TERM en="Local Problems" ar="مشاكل محلية" he="Local Problems" tr="Lokal problemler" />
+
+   <TERM en="Author:" ar="المؤلف:"  he="מחבר:" tr="Yazar" />
+
+   <TERM en="Description:" ar="الوصف:"  he="תאור:" tr="Tanım" />
+
+   <TERM en="Contains:" ar="المحتويات:"  he="מכיל:" tr="İçerir:" />
+
+   <TERM en="items" ar="عناصر"  he="פריטים" tr="Ürün" />
+
+   <TERM en="item" ar="عنصر" he="פריט"  tr="Madde" />
+   
+   <TERM en="Folders" ar="المجلدات" he="ספריות קלסרים"  tr="Klasörler" />
+   
+   <TERM en="Files" ar="ملفات" he="קבצים" tr="Dosyalar" />
+   
+   <TERM en="Foam Cup" ar="فنجان شمع" he="כוס קלקר" tr="Köpük Bardak" />
+   
+   <TERM en="TARE" ar="TARE" he="טארה" tr="DARA" />
+   
+   <TERM en="Filter - Remove solid" ar="مرشح - إزالة الصلب" he="סנן - הוצא מוצק" tr="Filtrele- Katıyı kaldır" />
+   
+   <TERM en="Filter - Remove liquid" ar="مرشح - إزالة السائل"  he="סנן - הוצא נוזל" tr="Filtrele- Sıvıyı kaldır" />
+   
+   <TERM en="Evaporate to dryness" ar="تبخير حتى الجفاف" he="אדה עד ייבוש" tr="Nemi Kaldır" />
+
+   <TERM en="Remove the solid fraction from this flask." ar="إزالة الجزء الصلب من هذه القارورة." he="הסר את המוצק מהכלי" tr="Katı atıkları cam balondan kaldır." />
+   
+   <TERM en="Remove the liquid fraction from this flask." ar="إزالة جزء السائل من هذه القارورة." he="הסר את הנוזל מהכלי" tr="Sıvı atıkları cam balondan kaldır." />
+   
+   <TERM en="Evaporates the solvent of this solution to dryness." ar="تبخير مذيب هذا المحلول حتى الجفاف" he="מאדה את הממס מהתמיסה עד יבוש" tr="Çözücüyü çözeltiden buharlaştır." />
+   
+   <font tr="ARIALUNI.TTF" ar="ARIALUNI.TFF" he="ARIALUNI.TFF"/>
+</LANG_FILE>
+

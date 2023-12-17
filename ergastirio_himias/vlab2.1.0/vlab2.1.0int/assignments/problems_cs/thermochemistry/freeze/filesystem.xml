@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" standalone="yes"?>
+
+<FILESYSTEM>
+	<DIRECTORY name="stockroom">
+
+				<SOLUTION name = "Destilovaná voda" description="Destilovaná voda"
+						  volume="3.0" vessel="3lCarboy">
+					<SPECIES_REF id="0"/>
+
+				</SOLUTION>
+
+
+			      <SOLUTION name = "Roztok Y" description="roztok sloučeniny Y" volume="0.1">
+				      <SPECIES_REF id="4" amount="1.643"/>
+				</SOLUTION>
+
+		<FILE href="freeze.htm" description="Popis problému">Popis problému</FILE>
+
+
+
+	</DIRECTORY>
+</FILESYSTEM>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!-- Local problems.  New entries can be added with the following template:
+	<PROBLEM url="">
+		<TITLE></TITLE>
+        <AUTHOR></AUTHOR>
+        <DESCRIPTION>
+		</DESCRIPTION>        
+	</PROBLEM>
+
+	Additionally, directories can be arbitrarily nested using the form:
+	<DIRECTORY name="">
+		...
+	</DIRECTORY>
+-->
+<INDEX>
+	<PROBLEM url="assignments/Default_it.xml">
+		<TITLE>Organizzazione Predefinita del Laboratorio</TITLE>
+		<AUTHOR>Mike Karabinos tradotto da Fabio Marchetti </AUTHOR>
+		<DESCRIPTION>
+			Contiene le sostanze, le reazioni e le soluzioni utilizzate in modo
+			predefinito dal magazzino del Laboratorio Virtuale.
+		</DESCRIPTION>
+	</PROBLEM>
+
+</INDEX>

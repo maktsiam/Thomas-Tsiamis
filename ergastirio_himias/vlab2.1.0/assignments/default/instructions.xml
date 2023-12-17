@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<INSTRUCTIONS>
+	<PARAGRAPH info="Welcome to ChemicalBattleship." />
+	<PARAGRAPH info="" />
+	<PARAGRAPH info="About" />
+	<PARAGRAPH info="Take on another player to determine who can identify Unknown Solutions first." />
+	<PARAGRAPH info="" />
+	<PARAGRAPH info="Modes of Play" />
+	<PARAGRAPH info="Single-Player: Can you identify what the computer throws at you?"/>
+	<PARAGRAPH info="Time: Race against the clock, no restrictions."/>
+	<PARAGRAPH info="Turn: One test at a time, can you figure out your opponents solution?"/>
+	<PARAGRAPH info="" />
+	<PARAGRAPH info="Challenge your opponent" />
+	<PARAGRAPH info="Create a nickname. Then select from the list of players who you'll challenge." />
+	<PARAGRAPH info="" />
+	<PARAGRAPH info="Create your solution" />
+	<PARAGRAPH info="Chat it up while you devise which acids and/or bases you'll combine to flumox your opponent. 
+		Enter the number of each type in the box. Hit Refresh. Select the compounds from the drop-down menus and
+		specify the molarity between 0.0000 and 10.0000. Hit Submit when finished. Now, wait for your opponent to do the same." />
+	<PARAGRAPH info="" />
+	<PARAGRAPH info="Win the Game" />
+	<PARAGRAPH info="Submit the correct compounds AND molarity first." />
+</INSTRUCTIONS>

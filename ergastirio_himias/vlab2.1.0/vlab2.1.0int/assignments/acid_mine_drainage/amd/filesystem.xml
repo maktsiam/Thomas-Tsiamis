@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+
+<FILESYSTEM>
+	<DIRECTORY name="stockroom">
+
+		<SOLUTION name = "Distilled H&lt;sub&gt;2&lt;/sub&gt;O" description="Distilled Water"
+						  volume="3.0" vessel="3lCarboy">
+			<SPECIES_REF id="0"/>
+
+		</SOLUTION>
+
+		<SOLUTION name="10M NaOH" description="10M Sodium Hydroxide" volume="0.1">
+			<SPECIES_REF id="0"/>
+			<SPECIES_REF id="8" amount="1"/>
+			<SPECIES_REF id="2" amount="1"/>
+		</SOLUTION>
+
+		<SOLUTION name="10M H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;" description="10 Molar Sulfuric Acid" volume="0.1">
+			<SPECIES_REF id="0"/>
+			<SPECIES_REF id="31" amount="1"/>
+		</SOLUTION>
+
+		<SOLUTION name="2M Fe&lt;sub&gt;2&lt;/sub&gt;(SO&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;" description="2 Molar Ferric Sulphate" volume="0.1">
+			<SPECIES_REF id="0"/>
+			<SPECIES_REF id="30" amount=".6"/>
+			<SPECIES_REF id="3" amount=".4"/>
+		</SOLUTION>
+		
+		<SOLUTION name="1M NaHCO&lt;sub&gt;3&lt;/sub&gt;" description="1 Molar Sodium Hydrogen Carbonate" volume="0.1">
+			<SPECIES_REF id="0"/>
+			<SPECIES_REF id="27" amount=".1"/>
+			<SPECIES_REF id="8" amount=".1"/>
+		</SOLUTION>
+
+
+	</DIRECTORY>
+</FILESYSTEM>

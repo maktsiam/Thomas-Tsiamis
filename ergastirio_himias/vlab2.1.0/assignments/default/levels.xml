@@ -1,0 +1,10 @@
+<LEVELS>
+	<LEVEL number="1">
+		<COMPONENTS directory="stockroom/Strong-acids" number="1"/>
+		<COMPONENTS directory="stockroom/Strong-bases" number="1"/>
+	</LEVEL>
+	
+	<LEVEL number="2">
+		<COMPONENTS directory="stockroom/Weak-acids" number="2"/>
+	</LEVEL>
+</LEVELS>

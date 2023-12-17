@@ -1,0 +1,22 @@
+<VIRTUALLAB version="1.5.0">
+
+	<TITLE>Sessiz barlamhana</TITLE>
+	<AUTHOR>Mike Karabinos, PICT Turkmenistan</AUTHOR>
+	<DESCRIPTION>Wertual barlamhananyň esasy bolup hyzmat edýän toplumynda reaktiwleri we ergini  saklanýar.</DESCRIPTION>
+	<SOLUTION_VIEWERS>
+		<VIEWER honorSignificantFigures="false" enabled="true" name="Erginleriň häsiýeti" driver="irydium.vlab.viewer.PropertiesPanel"/>
+		<VIEWER sEnabled="true" aqEnabled="true" enabled="true" name=" Reagentleriň häsiýeti " gEnabled="true" driver="irydium.vlab.viewer.SpeciesViewer" unitsToggleEnabled="true"/>
+		<VIEWER enabled="true" name="Termometr" driver="irydium.vlab.viewer.Thermometer"/>
+		<VIEWER enabled="true" name="PH-метр" driver="irydium.vlab.viewer.PhViewer"/>
+	</SOLUTION_VIEWERS>
+	<TRANSFERBAR>
+		<MODEL enabled="true" name="Öz ygtyýaryna takyk" driver="irydium.vlab.transfer.PreciseTransferModel"/>
+		<MODEL enabled="true" name="Ikinji belgä çenli takyk" driver="irydium.vlab.transfer.SignificantFiguresTransferModel"/>
+		<MODEL enabled="true" name="Realistiklik" driver="irydium.vlab.transfer.RealisticTransferModel"/>
+	</TRANSFERBAR>
+	<KNOWLEDGEBASE reactions="default_tk/reactions.xml" species="default_tk/species.xml" driver="irydium.textRealm.TextKnowledgebase"/>
+	<REALM name="default_tk" driver="irydium.textRealm.TextRealm" filesystem="default_tk/filesystem.xml"/>
+	<STOCKROOM>
+		<MOUNT realm="default_tk" path="/Irydium Solutions">Irydium Solutions</MOUNT>
+	</STOCKROOM>
+</VIRTUALLAB>
