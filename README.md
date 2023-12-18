@@ -11,7 +11,7 @@
 - Εκπαιδευτικά Παιχνίδια
 - Δυναμικοί/Αλληλεπιδραστικοί Χάρτες
 - 3D Αντικείμενα
-- AR/VR/MR Αντικείμενα από την ιστοσελίδα https://www.mozaweb.com/el/ και τα εικονικά χημικά εργαστήρια https://chem.noesis.edu.gr/all_vlabs και IrYdium
+- AR/VR/MR εφαρμογές για κινητές συσκευές όπως το https://magiscan.app/3d-scanner-omniverse.html
 Στη συνέχεια παραθέτω τις ιστοσελίδες από το διαδραστικό ψηφιακό υλικό που έχω χρησιμοποιήσει στη δημιουργία των εκπαιδευτικών μου δράσεων:
 
 1) https://eclass02.sch.gr/modules/auth/opencourses.php?fc=20074
@@ -49,8 +49,8 @@
 33) https://chem.noesis.edu.gr/vlabs-base-pH
 34) https://chem.noesis.edu.gr/vlabs-bas-pH-dilution
 35) https://teliportme.com/view/2181730
-36)
-37)
-38)
-39)
+36) https://magiscan.app/3d-scanner-omniverse.html
+37) https://edpuzzle.com/media/64a58b92b432504202cf15de
+38) https://edpuzzle.com/media/64a4666f4fff1e4177c8921b/edit
+39) https://eclass02.sch.gr/modules/link/?course=T197133
 
