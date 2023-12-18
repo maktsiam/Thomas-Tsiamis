@@ -56,4 +56,6 @@
 38) https://edpuzzle.com/media/64a4666f4fff1e4177c8921b/edit
 39) https://eclass02.sch.gr/modules/link/?course=T197133
 40) https://www.google.gr/maps/place/39%C2%B042'04.4%22N+21%C2%B038'08.9%22E/@39.7012232,21.6351619,139m/data=!3m1!1e3!4m4!3m3!8m2!3d39.7012222!4d21.6358056?hl=el&entry=ttu
+41) 
 
+https://www.likeart.gr/plantnet-efarmogi/
