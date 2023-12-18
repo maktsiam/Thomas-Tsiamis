@@ -2,10 +2,58 @@
 Επειδή τα OERs που χρησιμοποιώ στη διδασκαλία μου βρίσκονται στην εκπαιδευτική πλατφόρμα e-class ανέβασα ό,τι έχω χρησιμοποιήσει στη συγκριμένη πλατφόρμα στο GitHub.
 Ανέβασα αρχεία με πάγωμα οθόνης από το περιβάλλον εργασίας της ηλεκτρονικής τάξης (e-class) στην οποία εργάζομαι κατά τα διδακτικά μου καθήκοντα.
 Έχω δημιουργήσει κι άλλες εφαρμογές τις οποίες όσες ήταν εφικτό ανέβηκαν εδώ στο GitHub.
-Στη συνέχεια παραθέτω τις ιστοσελίδες από το διαδαρστικό ψηφιακό υλικό που έχω χρησιμοποιήσει στη δημιουργία των εκπαιδευτικών μου δράσεων:
+# Καταθέτοντας Ψηφιακό Εκπαιδευτικό Υλικό στο Υπουργείο Παιδείας
 
-1) https://eclass02.sch.gr/courses/T196179/
-2) https://eclass02.sch.gr/modules/course_info/index.php?course=T196122
-3) https://eclass02.sch.gr/modules/lti_consumer/launch.php?course=T196122&id=BBnroT
-4) 
+Αυτό το αποθετήριο περιέχει ψηφιακό εκπαιδευτικό υλικό που έχει δημιουργηθεί για την πλατφόρμα e class και υποβάλλεται για αξιολόγηση στο πλαίσιο της πρόσκλησης του Υπουργείου Παιδείας.
+
+## Κατηγορίες Εκπαιδευτικού Υλικού
+
+Το υλικό που παρουσιάζεται εδώ ανήκει σε διάφορες κατηγορίες διαδραστικών εκπαιδευτικών πόρων, συμπεριλαμβανομένων:
+- Οπτικοποιήσεις/Μοντέλα/Προσομοιώσεις
+- Εφαρμογές Πρακτικής και Εξάσκησης
+- Εκπαιδευτικά Παιχνίδια
+- Δυναμικοί/Αλληλεπιδραστικοί Χάρτες
+- 3D Αντικείμενα
+- AR/VR/MR Αντικείμενα από την ιστοσελίδα https://www.mozaweb.com/el/ και τα εικονικά χημικά εργαστήρια https://chem.noesis.edu.gr/all_vlabs και IrYdium
+Στη συνέχεια παραθέτω τις ιστοσελίδες από το διαδραστικό ψηφιακό υλικό που έχω χρησιμοποιήσει στη δημιουργία των εκπαιδευτικών μου δράσεων:
+
+1) https://eclass02.sch.gr/modules/auth/opencourses.php?fc=20074
+2) https://eclass02.sch.gr/modules/h5p/?course=T196117
+3) https://eclass02.sch.gr/modules/h5p/show.php?course=T196117&id=1645
+4) https://eclass02.sch.gr/modules/h5p/show.php?course=T196117&id=1655
+5) https://eclass02.sch.gr/modules/h5p/show.php?course=T196117&id=1665
+6) https://eclass02.sch.gr/modules/h5p/show.php?course=T196117&id=1666
+7) https://eclass02.sch.gr/modules/h5p/show.php?course=T196117&id=1674
+8) https://eclass02.sch.gr/modules/h5p/show.php?course=T196117&id=1657
+9) https://eclass02.sch.gr/modules/h5p/show.php?course=T196117&id=1677
+10) https://eclass02.sch.gr/modules/h5p/show.php?course=T196117&id=1678 
+11) https://eclass02.sch.gr/modules/h5p/show.php?course=T196117&id=1679
+12) https://eclass02.sch.gr/modules/announcements/?course=T196117
+13) https://eclass02.sch.gr/modules/exercise/?course=T196117
+14) https://eclass02.sch.gr/modules/document/?course=T196117
+15) https://eclass02.sch.gr/modules/ebook/?course=T196117
+16) https://eclass02.sch.gr/modules/video/?course=T196117
+17) https://eclass02.sch.gr/modules/link/?course=T196117
+18) https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect_all.html?locale=el
+19) https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect_all.html?locale=el
+20) https://sites.google.com/view/kipos3?usp=sharing
+21) https://eclass02.sch.gr/modules/exercise/?course=T196123
+22) https://eclass02.sch.gr/modules/exercise/exercise_submit.php?course=T196123&exerciseId=2011405
+23) https://eclass02.sch.gr/modules/exercise/exercise_submit.php?course=T196123&exerciseId=2011152
+24) https://eclass02.sch.gr/modules/document/?course=T196123
+25) https://eclass02.sch.gr/modules/ebook/?course=T196123
+26) https://chemcollective.org/vlab_download
+27) https://chem.noesis.edu.gr/all_vlabs
+28) https://www.mozaweb.com/el/lexikon.php?cmd=getlist&let=3D&sid=BIO&group_azon=noveny&lexikongrade=secondary_school
+29) https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale_all.html?locale=el
+30) https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale_all.html?locale=el
+31) https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale_all.html?locale=el
+32) https://chem.noesis.edu.gr/acids-ph
+33) https://chem.noesis.edu.gr/vlabs-base-pH
+34) https://chem.noesis.edu.gr/vlabs-bas-pH-dilution
+35) https://teliportme.com/view/2181730
+36)
+37)
+38)
+39)
 
