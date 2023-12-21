@@ -68,9 +68,10 @@
 33) https://chem.noesis.edu.gr/vlabs-bas-pH-dilution
 34) https://teliportme.com/view/2181730
 35) https://v.magiscan.app/model/6581b9ad643d7af3eecb178c.html Δημιουργία 3D εικόνας μετά από σκανάρισμα ανθοδέσμης του εργαστηρίου Φυτικής Παραγωγής
-36) https://magiscan.app/3d-scanner-omniverse.html
-37) https://edpuzzle.com/media/64a58b92b432504202cf15de
-38) https://eclass02.sch.gr/modules/link/?course=T197133
-39) https://www.google.gr/maps/place/39%C2%B042'04.4%22N+21%C2%B038'08.9%22E/@39.7012232,21.6351619,139m/data=!3m1!1e3!4m4!3m3!8m2!3d39.7012222!4d21.6358056?hl=el&entry=ttu
-40) https://www.likeart.gr/plantnet-efarmogi/
-41) https://play.google.com/store/apps/details?id=org.plantnet
+36) https://v.magiscan.app/model/65843c23db689eca6e4c8db4.html Δημιουργία 3D εικόνας μετά από σκανάρισμα γλάστρας του εργαστηρίου Φυτικής Παραγωγής
+37) https://magiscan.app/3d-scanner-omniverse.html
+38) https://edpuzzle.com/media/64a58b92b432504202cf15de
+39) https://eclass02.sch.gr/modules/link/?course=T197133
+40) https://www.google.gr/maps/place/39%C2%B042'04.4%22N+21%C2%B038'08.9%22E/@39.7012232,21.6351619,139m/data=!3m1!1e3!4m4!3m3!8m2!3d39.7012222!4d21.6358056?hl=el&entry=ttu
+41) https://www.likeart.gr/plantnet-efarmogi/
+42) https://play.google.com/store/apps/details?id=org.plantnet
